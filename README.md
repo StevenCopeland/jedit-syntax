@@ -1,0 +1,2 @@
+# jedit-syntax
+Atom Theme
