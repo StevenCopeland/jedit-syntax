@@ -7,4 +7,8 @@ Here are some of the differences:
 * The line numbers were different
 * The strings were different
 
+Install with:
+
+```apm install jedit-syntax```
+
 ![A screenshot of my theme](jeditTheme1.png)
