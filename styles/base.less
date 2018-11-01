@@ -142,11 +142,19 @@ atom-text-editor {
       color: @light-gray;
     }
 
-    &.syntax--string,
-    &.syntax--variable,
-    &.syntax--parameters,
+    &.syntax--string
+    // &.syntax--variable,
+    // &.syntax--parameters,
     &.syntax--array {
       color: @syntax-text-color;
+    }
+
+    &.syntax--variable {
+      color: blue;
+    }
+
+    &.syntax--parameters {
+      color: red;
     }
 
     &.syntax--heading,
