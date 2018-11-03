@@ -1,11 +1,13 @@
 {
-  "name": "jedit-syntax",
+  "name": "Jedit-Syntax",
   "theme": "syntax",
-  "version": "0.2.0",
-  "description": "Jedit syntax theme",
+  "version": "0.3.0",
+  "description": "Jedit Syntax Theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "jedit",
+    "goodlooking"
   ],
   "repository": "https://github.com/StevenCopeland/jedit-syntax",
   "license": "MIT",
