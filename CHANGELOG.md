@@ -9,3 +9,6 @@
 ## 0.3.3 - Changing syntax-string color
 * Changing the color of the strings
 * Reverted past changes on account of bugs
+
+## 0.3.4
+* Fixing 1 issue
