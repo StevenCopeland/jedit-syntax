@@ -12,3 +12,6 @@
 
 ## 0.3.4
 * Fixing 1 issue
+
+## 0.3.5
+* Adding parameter color
