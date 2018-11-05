@@ -1,7 +1,11 @@
 {
   "name": "Jedit-Syntax",
   "theme": "syntax",
+<<<<<<< HEAD
   "version": "0.3.7",
+=======
+  "version": "0.3.6",
+>>>>>>> 0c013d03612eaabf2c522efbdf6e58003c09b2f4
   "description": "Jedit Syntax Theme",
   "keywords": [
     "syntax",
