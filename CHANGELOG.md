@@ -16,5 +16,5 @@
 ## 0.3.5
 * Adding parameter color
 
-## 0.3.6
+## 0.4.0
 * Adding one more minor fix
