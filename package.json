@@ -1,7 +1,7 @@
 {
   "name": "Jedit-Syntax",
   "theme": "syntax",
-  "version": "0.3.7",
+  "version": "0.3.6",
   "description": "Jedit Syntax Theme",
   "keywords": [
     "syntax",
@@ -12,6 +12,6 @@
   "repository": "https://github.com/StevenCopeland/jedit-syntax",
   "license": "MIT",
   "engines": {
-    "atom": "=1.0.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
